@@ -16,6 +16,8 @@ public class SumAndAverage {
         // Calculate the sum of the largest number
         double largest = Math.max(num1, Math.max(num2, num3));
         System.out.println("The largest number is: " + largest);
+        double largest = Math.max(num1, Math.max(num2, num3));
+        System.out.println("The largest number is: " + largest);
 
         // Calculate the average
         double sum = num1 + num2 + num3;
