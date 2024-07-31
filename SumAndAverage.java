@@ -20,7 +20,7 @@ public class SumAndAverage {
         System.out.println("The largest number is: " + largest);
 
         // Calculate the average
-        double sum = num1 + num2 + num3;
+        double sum = num1 + num2 + num3;double sum = num1 + num2 + num3;
         double average = sum / 3;
         System.out.println("The average of the three numbers is: " + average);
 
